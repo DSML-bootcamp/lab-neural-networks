@@ -26,3 +26,8 @@ After you're done, submit a screenshot of your Playground including the followin
 * Test and training loss
 
 **Do not google for the end solution!**
+![TEST 1](image.png)
+![Solution 1](image-1.png)
+![Solution 2](image-2.png)
+![Solution 3](image-3.png)
+![Solution final](image-4.png)
